@@ -1,0 +1,21 @@
+
+.plot-pics.data-v-622086e9 {
+	background-color: #f7f4f9;
+	padding: 20rpx 40rpx;
+}
+.scroll-list.data-v-622086e9 {
+	width: 100%;
+	white-space: nowrap;
+	margin-top: 20rpx;
+}
+.plot-title.data-v-622086e9 {
+	color: #A9A9A9;
+	font-size: 14px;
+}
+.single-actor.data-v-622086e9 {
+	width: 220rpx;
+	height: 300rpx;
+	margin-right: 10rpx;
+}
+
+

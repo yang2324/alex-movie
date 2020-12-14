@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "video-player": "/pages/movie/childComps/VideoPlayer",
+    "movie-info": "/pages/movie/childComps/MovieInfo",
+    "line-wapper": "/components/common/LineWapper",
+    "cast-member": "/pages/movie/childComps/CastMember",
+    "plot-pics": "/pages/movie/childComps/PlotPics"
+  }
+}

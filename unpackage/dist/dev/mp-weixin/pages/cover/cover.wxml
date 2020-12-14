@@ -1,0 +1,1 @@
+<view class="black data-v-edbc8014"><image class="cover data-v-edbc8014" src="{{cover}}" mode="widthFix" data-event-opts="{{[['longpress',[['operator',['$event']]]]]}}" bindlongpress="__e"></image></view>

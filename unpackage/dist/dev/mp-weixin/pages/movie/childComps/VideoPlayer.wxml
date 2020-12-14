@@ -1,0 +1,1 @@
+<view class="player data-v-60fca1cd"><video class="movie data-v-60fca1cd" id="myTrailer" src="{{trailerInfo.trailer}}" poster="{{trailerInfo.poster}}"></video></view>

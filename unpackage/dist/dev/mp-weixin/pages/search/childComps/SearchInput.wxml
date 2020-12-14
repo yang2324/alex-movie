@@ -1,0 +1,1 @@
+<view class="search-box data-v-2f362079"><view class="search-ico-wapper data-v-2f362079"><image class="search-icon data-v-2f362079" src="../../../static/icos/search.png"></image></view><input class="search-text data-v-2f362079" placeholder="搜索电影" maxlength="10" confirm-type="search" data-event-opts="{{[['confirm',[['searchMe',['$event']]]]]}}" bindconfirm="__e"/></view>

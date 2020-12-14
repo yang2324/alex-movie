@@ -1,0 +1,14 @@
+
+.plots-block.data-v-6ba5ef28 {
+	background-color: #f7f4f9;
+	padding: 20rpx 40rpx;
+}
+.plots-title.data-v-6ba5ef28 {
+	color: #A9A9A9;
+	font-size: 14px;
+}
+.plots-desc.data-v-6ba5ef28 {
+	margin-top: 10rpx;
+	font-size: 16px;
+}
+

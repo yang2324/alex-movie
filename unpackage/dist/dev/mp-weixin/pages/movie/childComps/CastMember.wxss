@@ -1,0 +1,40 @@
+
+.cast-member.data-v-7e1277b8 {
+	background-color: #f7f4f9;
+	padding: 20rpx 40rpx;
+}
+.scroll-list.data-v-7e1277b8 {
+	width: 100%;
+	white-space: nowrap;
+	margin-top: 20rpx;
+}
+.cast-title.data-v-7e1277b8 {
+	color: #A9A9A9;
+	font-size: 14px;
+}
+.single-actor.data-v-7e1277b8 {
+	width: 170rpx;
+	height: 240rpx;
+	margin-right: 10rpx;
+}
+.actor-wapper.data-v-7e1277b8 {
+	display: inline-block;
+}
+.actor-name.data-v-7e1277b8 {
+	width: 170rpx;
+	text-align: center;
+	font-size: 15px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.actor-role.data-v-7e1277b8 {
+	width: 170rpx;
+	text-align: center;
+	font-size: 13px;
+	color: #A9A9A9;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+

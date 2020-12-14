@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "trailer-stars": "/components/content/trailerStars",
+    "easy-loadimage": "/components/common/easy-loadimage/easy-loadimage"
+  }
+}

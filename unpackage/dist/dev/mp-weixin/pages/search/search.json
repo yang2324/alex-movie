@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索电影",
+  "usingComponents": {
+    "search-input": "/pages/search/childComps/SearchInput",
+    "movie-list": "/pages/search/childComps/MovieList"
+  }
+}

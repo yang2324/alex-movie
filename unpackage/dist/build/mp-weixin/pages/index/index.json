@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "index-swiper": "/pages/index/childComps/IndexSwiper",
+    "super-hot": "/pages/index/childComps/SuperHot",
+    "trailer-hot": "/pages/index/childComps/TrailerHot",
+    "guessu-like": "/pages/index/childComps/GuessuLike"
+  }
+}

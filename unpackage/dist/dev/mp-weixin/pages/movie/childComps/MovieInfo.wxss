@@ -1,0 +1,79 @@
+
+.movie-info.data-v-213587cf {
+	padding: 40rpx 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	background-color: #f7f4f9;
+}
+.cover.data-v-213587cf {
+	width: 280rpx;
+	height: 380rpx;
+}
+.movie-desc.data-v-213587cf{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-left: 30rpx;
+	width: 400rpx;
+}
+.desc-name.data-v-213587cf {
+	font-size: 36rpx;
+	padding-bottom: 10rpx;
+}
+.desc-info.data-v-213587cf {
+	color: darkgray;
+	font-size: 28rpx;
+	line-height: 40rpx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.desc-score.data-v-213587cf{
+	background-color: white;
+	margin-top: 20rpx;
+	width: 360rpx;
+	height: 90rpx;
+	padding: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	/* 追加阴影效果 */
+	-webkit-box-shadow: 3px 2px 10px #dedede;
+	        box-shadow: 3px 2px 10px #dedede;
+}
+.score-title.data-v-213587cf{
+	font-size: 28rpx;
+	color: darkgray;
+}
+.score-num.data-v-213587cf{
+	font-size: 46rpx;
+	font-weight: bold;
+	margin-left: 8rpx;
+	color: #FEAB2A;
+	line-height: 60rpx;
+}
+.prise-counts.data-v-213587cf {
+	font-size: 28rpx;
+	color: grey;
+	line-height: 60rpx;
+}
+

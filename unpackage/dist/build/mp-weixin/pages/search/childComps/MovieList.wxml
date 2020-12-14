@@ -1,0 +1,1 @@
+<view class="movie-list data-v-4c6a47ea"><block wx:for="{{trailerList}}" wx:for-item="trailer" wx:for-index="__i0__"><view class="movie-wapper data-v-4c6a47ea"><image class="poster data-v-4c6a47ea" src="{{trailer.cover}}" data-trailerId="{{trailer.id}}" data-event-opts="{{[['tap',[['showTrailer',['$event']]]]]}}" bindtap="__e"></image></view></block></view>
